@@ -8,9 +8,6 @@ Welcome to my GitHub profile! 🚀 I'm an **aspiring Machine Learning Engineer**
 
 - 🎓 **Software Engineering Student** exploring the exciting world of **Data Science** and **Machine Learning**.
 - 🎯 **Focused on:** Data Analysis, End-to-End ML Projects, and Model Deployment.
-- 💻 Previously worked as a **Python Intern**, creating projects like:
-  - A **Weather App**
-  - A **URL Shortener**
 - 🏆 Recently secured **5th position** in the **Data Wrangling Warriors** competition by Tecknofest Pakistan.
 - 🎉 DataCamp Scholar and a passionate self-learner!
 
