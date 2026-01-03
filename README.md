@@ -32,8 +32,8 @@ Welcome to my GitHub profile! 🚀 I'm an **aspiring Machine Learning Engineer**
 ## 📂 My Projects
 
 ### 🔍 **Data Analysis:**
-- **Netflix Dataset Analysis**
-  - Insights into content trends and viewership patterns.
+- **MediAid Ai**
+  - An AI-powered healthcare application featuring disease prediction from symptoms, diagnostic test suggestions, and medicine recommendations with secure authentication.
 - **Crimes in Pakistan (2012-2017)**
   - A deep dive into crime statistics with powerful visualizations.
 
@@ -42,9 +42,8 @@ Welcome to my GitHub profile! 🚀 I'm an **aspiring Machine Learning Engineer**
 
 ---
 
-## 🎯 Goals for 2025
+## 🎯 Goals for 2026
 
-- 💡 Post **1-2 projects per week** showcasing my skills and progress.
 - 🚀 Deepen expertise in **Machine Learning** and **Data Science**.
 - 🤝 Collaborate on impactful open-source projects.
 
